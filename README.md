@@ -96,7 +96,7 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal — **2014**
 - **LinkedIn:** [surajknkumar](https://www.linkedin.com/in/surajknkumar/)
 - **Portfolio:** [portfolio](https://github.com/surajknkumar/surajknkumar/edit/main/README.md)
 
-## 📄 Resume
+## 📄 [Resume](https://github.com/surajknkumar/surajknkumar/blob/main/Suraj_Resume.docx)
 
 The latest resume can be included in this repository and linked from the live portfolio.
 
